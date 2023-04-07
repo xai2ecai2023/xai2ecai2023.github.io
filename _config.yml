@@ -1,0 +1,22 @@
+title:       Towards Explainable Artificial Intelligence 2.0
+description: XAI 2.0 Workshop at ECAI 2023
+
+timezone: Europe/Warsaw
+
+navigation:
+  Home: "/"
+  Call for Papers: "/cfp"
+  Schedule: "/schedule"
+  # Accepted Papers: "/papers"
+  Related Workshops: "/related_workshops"
+
+markdown: kramdown
+
+kramdown:
+  parse_span_html: true
+  parse_block_html: true
+
+plugins:
+  - jekyll-seo-tag
+
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock']
