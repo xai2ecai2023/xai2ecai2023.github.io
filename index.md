@@ -10,11 +10,17 @@ layout: default
 
 ## Tracks and Topics
 
-1. **Emerging Challenges**
+| **#1 Emerging Challenges** | **#2 Medical Applications** | **#3 Industry 4.0 & 5.0** |
+| --- | --- | --- |
+| Emerging challenges in explainable AI towards XAI 2.0 | Theory and application of XAI for medical imaging and other medical applications | Ethical considerations in industrial deployment of AI |
+| Evaluation and limitations of current XAI methods | Uncertainty estimation of AI models using medical data | AI transparency and accountability in smart factories |
+| Trade-off between model-agnostic and model-specific explainability | Multimodal learning, e.g., PET/CT, healthcare records, genomics, and other heterogeneous datasets | Explainable systems fusing various sources of industrial information |
+| Adversarial attacks and defenses in XAI | Clinical cases, evaluation, and software of XAI for medicine | XAI in performance and efficiency of industrial systems |
+| Privacy, leakage of sensitive information, fairness and bias | Fairness, bias, and transparency in medical AI models | Prediction of maintenance, product, and process quality |
+| Human-centered XAI through visualization, active learning, model improvement and debugging | Human-computer interaction (HCI) and human in the loop (HITL) approaches in medicine | Data and information fusion in the industrial XAI context |
+| XAI beyond classification and regression, e.g. in unsupervised learning, image segmentation, survival analysis | Inherently interpretable models in supervised, unsupervised and semi-supervised learning for biology and medicine | Application in manufacturing systems, production processes, energy, power, and transport systems |
 
-2. **Medical Applications**
 
-3. **Industry 4.0 & 5.0**
 
 ## Dates
 
@@ -42,4 +48,4 @@ TBA
 
 # Contact
 
-**Email**: xai2ecai2023@googlegroups.com
+**Email**: <a href="mailto:xai2ecai2023@googlegroups.com">xai2ecai2023@googlegroups.com</a>
