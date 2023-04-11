@@ -2,6 +2,9 @@
 layout: default
 ---
 
+| **Date** | September 30 / October 1, 2023 |
+| **Location** | The workshop will be held *in-person* at the [ECAI 2023](https://ecai2023.eu) conference in Kraków, Poland. |
+
 # Call for Papers
 
 Welcome to the Joint workshops on XAI methods, challenges and applications **(XAI^3)**, where we aim to discuss opportunities for the new generation of explainable AI (XAI) methods that are reliable, robust, and trustworthy. Explainability of AI models and systems is crucial for humans to trust and use intelligent systems, yet their utility in high-risk applications such as healthcare and industry has been severely limited. Our workshop will have three tracks: medical, industry, and future challenges, where we will explore the challenges and opportunities in creating useful XAI methods for medical applications, integrating explainability in highly automated industrial processes, and evaluating current and future XAI methods. We welcome contributions from researchers, academia, and industries primarily from a technical and application point of view, but also from an ethical and sociological perspective. Join us in discussing the latest developments in XAI and their practical applications at the 26th European Conference on Artificial Intelligence **(ECAI 2023)** in Kraków, Poland.

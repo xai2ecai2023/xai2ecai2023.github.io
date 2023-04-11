@@ -2,6 +2,9 @@
 layout: default
 ---
 
+| **Date** | September 30 / October 1, 2023 |
+| **Location** | The workshop will be held *in-person* at the [ECAI 2023](https://ecai2023.eu) conference in Kraków, Poland. |
+
 # Tentative Schedule
 
 This is the tentative workshop's schedule in Central European Time (CET). 
