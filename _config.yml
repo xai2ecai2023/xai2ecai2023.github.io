@@ -9,6 +9,7 @@ navigation:
   Schedule: "/schedule"
   # Accepted Papers: "/papers"
   Related Workshops: "/related_workshops"
+  Main Conference: https://ecai2023.eu
 
 markdown: kramdown
 

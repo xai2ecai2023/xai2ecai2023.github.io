@@ -18,7 +18,15 @@ Welcome to the Joint workshops on XAI methods, challenges and applications **(XA
 
 ## Dates
 
+| **Paper submission deadline** | June 12, 2023 |
+| **Decision notification** | August 02, 2023 |
+| **Camera-ready due** | August 15, 2023 |
+
+(All times Anywhere on Earth (AoE), UTC-12)
+
 ## Submission instructions
+
+TBA
 
 # Invited Speakers
 
