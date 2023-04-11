@@ -1,5 +1,5 @@
-title:       Towards Explainable Artificial Intelligence 2.0
-description: XAI 2.0 Workshop at ECAI 2023
+title:       XAI^3 Workshop at ECAI 2023
+description: Joint workshops on XAI methods, challenges and applications at ECAI 2023
 
 timezone: Europe/Warsaw
 
@@ -18,5 +18,6 @@ kramdown:
 
 plugins:
   - jekyll-seo-tag
-
+  - jekyll-spaceship
+  
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock']

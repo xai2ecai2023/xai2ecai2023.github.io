@@ -8,9 +8,12 @@ layout: default
 
 # Call for Papers
 
+Welcome to the Joint workshops on XAI methods, challenges and applications **(XAI^3)**, where we aim to discuss opportunities for the new generation of explainable AI (XAI) methods that are reliable, robust, and trustworthy. Explainability of AI models and systems is crucial for humans to trust and use intelligent systems, yet their utility in high-risk applications such as healthcare and industry has been severely limited. Our workshop will have three tracks: medical, industry, and future challenges, where we will explore the challenges and opportunities in creating useful XAI methods for medical applications, integrating explainability in highly automated industrial processes, and evaluating current and future XAI methods. We welcome contributions from researchers, academia, and industries primarily from a technical and application point of view, but also from an ethical and sociological perspective. Join us in discussing the latest developments in XAI and their practical applications at the 26th European Conference on Artificial Intelligence (ECAI 2023) in Kraków, Poland.
+
 ## Tracks and Topics
 
-| **#1 Emerging Challenges** | **#2 Medical Applications** | **#3 Industry 4.0 & 5.0** |
+| **Towards Explainable AI 2.0 (XAI 2.0)** | **Explainable AI for Medical Applications (XAIM)** | **Explainable AI for Industry 4.0 & 5.0 (XAI4I)** |
+| ^^ Przemysław Biecek | ^^ Neo Christopher Chung  | ^^ Sławomir Nowaczyk |
 | --- | --- | --- |
 | Emerging challenges in explainable AI towards XAI 2.0 | Theory and application of XAI for medical imaging and other medical applications | Ethical considerations in industrial deployment of AI |
 | Evaluation and limitations of current XAI methods | Uncertainty estimation of AI models using medical data | AI transparency and accountability in smart factories |
@@ -19,8 +22,6 @@ layout: default
 | Privacy, leakage of sensitive information, fairness and bias | Fairness, bias, and transparency in medical AI models | Prediction of maintenance, product, and process quality |
 | Human-centered XAI through visualization, active learning, model improvement and debugging | Human-computer interaction (HCI) and human in the loop (HITL) approaches in medicine | Data and information fusion in the industrial XAI context |
 | XAI beyond classification and regression, e.g. in unsupervised learning, image segmentation, survival analysis | Inherently interpretable models in supervised, unsupervised and semi-supervised learning for biology and medicine | Application in manufacturing systems, production processes, energy, power, and transport systems |
-
-
 
 ## Dates
 
@@ -33,7 +34,7 @@ TBA
 # Organizers
 
 |<img src="./assets/images/hbaniecki.jpg" alt="Hubert Baniecki" width="150"/>|<img src="./assets/images/pbiecek.jpg" alt="Przemysław Biecek" width="150"/>|<img src="./assets/images/abifet.jpg" alt="Albert Bifet" width="150"/>|<img src="./assets/images/sbobek.jpg" alt="Szymon Bobek" width="150"/>|<img src="./assets/images/lbrocki.jpg" alt="Lennart Brocki" width="150"/>|<img src="./assets/images/gcasalicchio.jpg" alt="Giuseppe Casalicchio" width="150"/>|
-|[Hubert Baniecki](https://hbaniecki.com)<br/>University of Warsaw|[Przemysław Biecek](https://biecek.pl)<br/>Warsaw University of Technology|[Albert Bifet](https://albertbifet.com)<br/>Telecom-ParisTech|[Szymon Bobek](https://szymon.bobek.re)<br/>Jagiellonian University|[Lennart Brocki](https://scholar.google.ca/citations?user=cwkj0T0AAAAJ)<br/>University of Warsaw|[Giuseppe Casalicchio](https://www.slds.stat.uni-muenchen.de/people/casalicchio/)<br/>Ludwig-Maximilians-Universität München|
+|[Hubert Baniecki](https://hbaniecki.com)<br/>University of Warsaw|[Przemysław Biecek](https://pbiecek.github.io)<br/>Warsaw University of Technology|[Albert Bifet](https://albertbifet.com)<br/>Telecom-ParisTech|[Szymon Bobek](https://szymon.bobek.re)<br/>Jagiellonian University|[Lennart Brocki](https://scholar.google.ca/citations?user=cwkj0T0AAAAJ)<br/>University of Warsaw|[Giuseppe Casalicchio](https://www.slds.stat.uni-muenchen.de/people/casalicchio/)<br/>Ludwig-Maximilians-Universität München|
 
 |<img src="./assets/images/ncchung.jpg" alt="Neo Christopher Chung" width="150"/>|<img src="./assets/images/jgama.jpg" alt="Joao Gama" width="150"/>|<img src="./assets/images/mhatt.jpg" alt="Mathieu Hatt" width="150"/>|<img src="./assets/images/gjnalepa.jpg" alt="Grzegorz J. Nalepa" width="150"/>|<img src="./assets/images/snowaczyk.png" alt="Sławomir Nowaczyk" width="150"/>|<img src="./assets/images/ppapadimitroulas.jpg" alt="Panagiotis Papadimitroulas" width="150"/>|
 |[Neo Christopher Chung](https://cbml.science/)<br/>University of Warsaw|[Joao Gama](http://www.liaad.up.pt/area/jgama)<br/>University of Porto|[Mathieu Hatt](http://mathhatt.free.fr)<br/>LaTIM|[Grzegorz J. Nalepa](https://gjn.re/wiki/doku.php)<br/>Jagiellonian University|[Sławomir Nowaczyk](https://wiki.hh.se/caisr/index.php/Slanow)<br/>Halmstad University|[Panagiotis Papadimitroulas](https://www.researchgate.net/profile/Panagiotis-Papadimitroulas)<br/>BIOEMTECH|
