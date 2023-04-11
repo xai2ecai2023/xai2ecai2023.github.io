@@ -9,7 +9,7 @@ layout: default
 
 This is the tentative workshop's schedule in Central European Time (CET). 
 
-| **Time (PT)** | **Event** |
+| **Time (CET)** | **Event** |
 | <span style="font-family: monospace;">09:00 - 09:15</span> | Opening Remarks |
 ||**Session 1**|
 | <span style="font-family: monospace;">09:15 - 09:50</span> | Invited Talk #1 |
