@@ -24,6 +24,10 @@ Welcome to the Joint workshops on XAI methods, challenges and applications **(XA
 
 TBA
 
+# Program Comittee
+
+TBA
+
 # Organizers
 
 |<img src="./assets/images/hbaniecki.jpg" alt="Hubert Baniecki" width="150"/>|<img src="./assets/images/pbiecek.jpg" alt="Przemysław Biecek" width="150"/>|<img src="./assets/images/abifet.jpg" alt="Albert Bifet" width="150"/>|<img src="./assets/images/sbobek.jpg" alt="Szymon Bobek" width="150"/>|<img src="./assets/images/lbrocki.jpg" alt="Lennart Brocki" width="150"/>|<img src="./assets/images/gcasalicchio.jpg" alt="Giuseppe Casalicchio" width="150"/>|
@@ -34,11 +38,6 @@ TBA
 
 |<img src="./assets/images/spashami.jpg" alt="Sepideh Pashami" width="150"/>|<img src="./assets/images/drymarczyk.jpg" alt="Dawid Rymarczyk" width="150"/>|<img src="./assets/images/jtabor.jpg" alt="Jacek Tabor" width="150"/>|<img src="./assets/images/rpribeiro.jpg" alt="Rita P. Ribeiro" width="150"/>|<img src="./assets/images/bveloso.jpg" alt="Bruno Veloso" width="150"/>|<img src="./assets/images/bzielinski.jpg" alt="Bartosz Zieliński" width="150"/>|
 |[Sepideh Pashami](https://wiki.hh.se/caisr/index.php/Sepideh_Pashami)<br/>Halmstad University|[Dawid Rymarczyk](https://scholar.google.com/citations?user=QLAFuXYAAAAJ)<br/>Jagiellonian University|[Jacek Tabor](https://scholar.google.pl/citations?user=zSKYziUAAAAJ)<br/>Jagiellonian University|[Rita P. Ribeiro](https://scholar.google.com/citations?user=ptDBgpkAAAAJ)<br/>University of Porto|[Bruno Veloso](https://brunomveloso.github.io)<br/>University of Porto|[Bartosz Zieliński](https://bartoszzielinski.github.io)<br/>Jagiellonian University|
-
-
-# Program Comittee
-
-TBA
 
 # Contact
 
