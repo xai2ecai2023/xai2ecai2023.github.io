@@ -8,12 +8,12 @@ layout: default
 
 # Call for Papers
 
-Welcome to the Joint workshops on XAI methods, challenges and applications **(XAI^3)**, where we aim to discuss opportunities for the new generation of explainable AI (XAI) methods that are reliable, robust, and trustworthy. Explainability of AI models and systems is crucial for humans to trust and use intelligent systems, yet their utility in high-risk applications such as healthcare and industry has been severely limited. Our workshop will have three tracks: medical, industry, and future challenges, where we will explore the challenges and opportunities in creating useful XAI methods for medical applications, integrating explainability in highly automated industrial processes, and evaluating current and future XAI methods. We welcome contributions from researchers, academia, and industries primarily from a technical and application point of view, but also from an ethical and sociological perspective. Join us in discussing the latest developments in XAI and their practical applications at the 26th European Conference on Artificial Intelligence (ECAI 2023) in Kraków, Poland.
+Welcome to the Joint workshops on XAI methods, challenges and applications **(XAI^3)**, where we aim to discuss opportunities for the new generation of explainable AI (XAI) methods that are reliable, robust, and trustworthy. Explainability of AI models and systems is crucial for humans to trust and use intelligent systems, yet their utility in high-risk applications such as healthcare and industry has been severely limited. Our workshop will have three tracks: medical, industry, and future challenges, where we will explore the challenges and opportunities in creating useful XAI methods for medical applications, integrating explainability in highly automated industrial processes, and evaluating current and future XAI methods. We welcome contributions from researchers, academia, and industries primarily from a technical and application point of view, but also from an ethical and sociological perspective. Join us in discussing the latest developments in XAI and their practical applications at the 26th European Conference on Artificial Intelligence **(ECAI 2023)** in Kraków, Poland.
 
 ## Tracks and Topics
 
 | **Towards Explainable AI 2.0 (XAI 2.0)** | **Explainable AI for Medical Applications (XAIM)** | **Explainable AI for Industry 4.0 & 5.0 (XAI4I)** |
-| ^^ Przemysław Biecek | ^^ Neo Christopher Chung  | ^^ Sławomir Nowaczyk |
+|^^ Przemysław Biecek |^^ Neo Christopher Chung  |^^ Sławomir Nowaczyk |
 | --- | --- | --- |
 | Emerging challenges in explainable AI towards XAI 2.0 | Theory and application of XAI for medical imaging and other medical applications | Ethical considerations in industrial deployment of AI |
 | Evaluation and limitations of current XAI methods | Uncertainty estimation of AI models using medical data | AI transparency and accountability in smart factories |
@@ -21,7 +21,8 @@ Welcome to the Joint workshops on XAI methods, challenges and applications **(XA
 | Adversarial attacks and defenses in XAI | Clinical cases, evaluation, and software of XAI for medicine | XAI in performance and efficiency of industrial systems |
 | Privacy, leakage of sensitive information, fairness and bias | Fairness, bias, and transparency in medical AI models | Prediction of maintenance, product, and process quality |
 | Human-centered XAI through visualization, active learning, model improvement and debugging | Human-computer interaction (HCI) and human in the loop (HITL) approaches in medicine | Data and information fusion in the industrial XAI context |
-| XAI beyond classification and regression, e.g. in unsupervised learning, image segmentation, survival analysis | Inherently interpretable models in supervised, unsupervised and semi-supervised learning for biology and medicine | Application in manufacturing systems, production processes, energy, power, and transport systems |
+|^^ XAI beyond classification and regression, e.g. in unsupervised learning, image segmentation, survival analysis | Inherently interpretable models in supervised, unsupervised and semi-supervised learning for biology and medicine | Application in manufacturing systems, production processes, energy, power, and transport systems |
+|{::nomarkdown}<ul><li>id</li></ul>{:/}| | |
 
 ## Dates
 

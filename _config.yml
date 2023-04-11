@@ -1,5 +1,5 @@
 title:       XAI^3 Workshop at ECAI 2023
-description: Joint workshops on XAI methods, challenges and applications at ECAI 2023
+description: Joint workshops on XAI methods, challenges and applications at the 26th European Conference on Artificial Intelligence
 
 timezone: Europe/Warsaw
 
@@ -19,5 +19,5 @@ kramdown:
 plugins:
   - jekyll-seo-tag
   - jekyll-spaceship
-  
+
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock']
