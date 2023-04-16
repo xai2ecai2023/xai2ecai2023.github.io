@@ -8,7 +8,8 @@ navigation:
   Call for Papers: "/cfp"
   Schedule: "/schedule"
   # Accepted Papers: "/papers"
-  Related Workshops: "/related_workshops"
+  Organisers: "/organisers"
+  # Related Workshops: "/related_workshops"
   Main Conference: https://ecai2023.eu
 
 markdown: kramdown
