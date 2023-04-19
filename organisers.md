@@ -2,6 +2,9 @@
 layout: default
 ---
 
+| **Date** | September 30 / October 1, 2023 |
+| **Location** | The workshop will be held *in-person* at the [ECAI 2023](https://ecai2023.eu) conference in Kraków, Poland. |
+
 # Organizers
 
 |<img src="./assets/images/hbaniecki.jpg" alt="Hubert Baniecki" width="150"/>|<img src="./assets/images/pbiecek.jpg" alt="Przemysław Biecek" width="150"/>|<img src="./assets/images/abifet.jpg" alt="Albert Bifet" width="150"/>|<img src="./assets/images/sbobek.jpg" alt="Szymon Bobek" width="150"/>|<img src="./assets/images/lbrocki.jpg" alt="Lennart Brocki" width="150"/>|<img src="./assets/images/gcasalicchio.jpg" alt="Giuseppe Casalicchio" width="150"/>|

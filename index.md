@@ -49,4 +49,4 @@ TBA -->
 
 # Contact
 
-**Email**: <a href="mailto:xai2ecai2023@googlegroups.com">xai2ecai2023@googlegroups.com</a>
+**Email**: <a href="mailto:xai3ecai2023@googlegroups.com">xai3ecai2023@googlegroups.com</a>
