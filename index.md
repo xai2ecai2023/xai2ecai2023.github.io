@@ -38,13 +38,14 @@ Submissions can be done at TBA.
 
 # Invited Speakers
 
-TBA
+|<img src="./assets/images/cbielza.jfif" alt="Concha Bielza" width="250"/>|<img src="./assets/images/plarranaga.jfif" alt="Pedro Larrañaga" width="250"/>|<img src="./assets/images/tba.png" alt="tba" width="250"/>|
+|[Concha Bielza](https://scholar.google.com/citations?user=zwSj1n8AAAAJ)<br/>Technical University of Madrid|[Pedro Larrañaga](https://scholar.google.es/citations?user=iTlD56SV03AC)<br/>Technical University of Madrid| TBA |
 
 <!-- # Program Comittee
 
 TBA -->
 
-# Organizers
+# Organisers
 
 |<img src="./assets/images/hbaniecki.jpg" alt="Hubert Baniecki" width="150"/>|<img src="./assets/images/pbiecek.jpg" alt="Przemysław Biecek" width="150"/>|<img src="./assets/images/abifet.jpg" alt="Albert Bifet" width="150"/>|<img src="./assets/images/sbobek.jpg" alt="Szymon Bobek" width="150"/>|<img src="./assets/images/lbrocki.jpg" alt="Lennart Brocki" width="150"/>|<img src="./assets/images/gcasalicchio.jpg" alt="Giuseppe Casalicchio" width="150"/>|
 |[Hubert Baniecki](https://hbaniecki.com)<br/>University of Warsaw|[Przemysław Biecek](https://pbiecek.github.io)<br/>Warsaw University of Technology|[Albert Bifet](https://albertbifet.com)<br/>Telecom-ParisTech|[Szymon Bobek](https://szymon.bobek.re)<br/>Jagiellonian University|[Lennart Brocki](https://scholar.google.ca/citations?user=cwkj0T0AAAAJ)<br/>University of Warsaw|[Giuseppe Casalicchio](https://www.slds.stat.uni-muenchen.de/people/casalicchio/)<br/>Ludwig Maximilian University of Munich|
