@@ -38,8 +38,8 @@ Submissions can be done at TBA.
 
 # Invited Speakers
 
-|<img src="./assets/images/cbielza.jfif" alt="Concha Bielza" width="250"/>|<img src="./assets/images/plarranaga.jfif" alt="Pedro Larrañaga" width="250"/>|<img src="./assets/images/tba.png" alt="tba" width="250"/>|
-|[Concha Bielza](https://scholar.google.com/citations?user=zwSj1n8AAAAJ)<br/>Technical University of Madrid|[Pedro Larrañaga](https://scholar.google.es/citations?user=iTlD56SV03AC)<br/>Technical University of Madrid| TBA |
+|<img src="./assets/images/cbielza.jfif" alt="Concha Bielza" width="250"/>|<img src="./assets/images/plarranaga.jfif" alt="Pedro Larrañaga" width="250"/>|<img src="./assets/images/ielnaqa.jpeg" alt="Issam El Naqa" width="250"/>|<img src="./assets/images/tba.png" alt="tba" width="250"/>|
+|[Concha Bielza](https://scholar.google.com/citations?user=zwSj1n8AAAAJ)<br/>Technical University of Madrid|[Pedro Larrañaga](https://scholar.google.es/citations?user=iTlD56SV03AC)<br/>Technical University of Madrid|[Issam El Naqa](https://scholar.google.ca/citations?user=9Vdfc2sAAAAJ)<br/>Moffitt Cancer Center| TBA |
 
 <!-- # Program Comittee
 
