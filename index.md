@@ -3,7 +3,7 @@ layout: default
 ---
 
 | **Date** | September 30 / October 1, 2023 |
-| **Location** | The workshop will be held *in-person* at the [ECAI 2023](https://ecai2023.eu) conference in Kraków, Poland. |
+| **Location** | The workshop will be held **in-person** at the [ECAI 2023](https://ecai2023.eu) conference in Kraków, Poland. |
 
 
 # Call for Papers
@@ -18,9 +18,9 @@ Welcome to the Joint workshops on XAI methods, challenges and applications **(XA
 
 ## Dates
 
-| **Paper submission deadline** | June 12, 2023 |
-| **Decision notification** | August 02, 2023 |
-| **Camera-ready due** | August 15, 2023 |
+| **Paper submission deadline** | July 18, 2023 |
+| **Decision notification** | August 15, 2023 |
+| **Camera-ready due** | August 22, 2023 |
 
 All times Anywhere on Earth (AoE), UTC-12
 
