@@ -17,12 +17,20 @@ Welcome to the Joint workshops on XAI methods, challenges and applications **(XA
 
 ## Dates
 
-| **Paper submission deadline** | June 12, 2023 |
-| **Decision notification** | August 02, 2023 |
-| **Camera-ready due** | August 15, 2023 |
+| **Paper submission deadline** | July 18, 2023 |
+| **Decision notification** | August 15, 2023 |
+| **Camera-ready due** | August 22, 2023 |
 
-(All times Anywhere on Earth (AoE), UTC-12)
+All times Anywhere on Earth (AoE), UTC-12
 
 ## Submission instructions
 
-TBA
+Submissions should follow the **ECAI 2023 format** available at [https://ecai2023.eu/ECAI2023](https://ecai2023.eu/ECAI2023).
+
+We welcome **max 7-page** submissions of papers. The page limit **does not** include references and supplementary material.
+
+All submissions should be in the **anonymized** ECAI 2023 format available at [https://vtex-soft.github.io/texsupport.iospress-ecai](https://vtex-soft.github.io/texsupport.iospress-ecai).
+
+Submissions can be done at TBA.
+
+*Overlength or non-anonymized submissions will be rejected without review.*
