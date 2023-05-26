@@ -5,7 +5,7 @@ layout: default
 | **Date** | September 30 / October 1, 2023 |
 | **Location** | The workshop will be held **in-person** at the [ECAI 2023](https://ecai2023.eu) conference in Kraków, Poland. |
 
-# Invited Speakers
+# ⭐ Invited Speakers ⭐ 
 
 |<img src="./assets/images/cbielza.jfif" alt="Concha Bielza" width="250"/>|<img src="./assets/images/plarranaga.jfif" alt="Pedro Larrañaga" width="250"/>|
 |[Concha Bielza](https://scholar.google.com/citations?user=zwSj1n8AAAAJ)<br/>Technical University of Madrid|[Pedro Larrañaga](https://scholar.google.es/citations?user=iTlD56SV03AC)<br/>Technical University of Madrid|
