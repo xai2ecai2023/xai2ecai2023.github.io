@@ -25,13 +25,13 @@ All times Anywhere on Earth (AoE), UTC-12
 
 ## Submission instructions
 
-Submissions should follow the **ECAI 2023 format** available at [https://ecai2023.eu/ECAI2023](https://ecai2023.eu/ECAI2023).
+Submissions should follow the **ECAI 2023 format** available at [https://ecai2023.eu/ECAI2023](https://ecai2023.eu/ECAI2023)
 
 We welcome **max 7-page** submissions of papers. The page limit **does not** include references and supplementary material.
 
-All submissions should be in the **anonymized** ECAI 2023 format available at [https://vtex-soft.github.io/texsupport.iospress-ecai](https://vtex-soft.github.io/texsupport.iospress-ecai).
+All submissions should be in the **anonymized** ECAI 2023 format available at [https://vtex-soft.github.io/texsupport.iospress-ecai](https://vtex-soft.github.io/texsupport.iospress-ecai)
 
-Submissions can be done at TBA.
+Submissions can be done at [https://cmt3.research.microsoft.com/XAI32023](https://cmt3.research.microsoft.com/XAI32023)
 
 *Overlength or non-anonymized submissions will be rejected without review.*
 
