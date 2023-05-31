@@ -31,7 +31,7 @@ We welcome **max 7-page** submissions of papers. The page limit **does not** inc
 
 All submissions should be in the **anonymized** ECAI 2023 format available at [https://vtex-soft.github.io/texsupport.iospress-ecai](https://vtex-soft.github.io/texsupport.iospress-ecai)
 
-Submissions can be done at [https://cmt3.research.microsoft.com/XAI32023](https://cmt3.research.microsoft.com/XAI32023)
+Submissions can be done at [https://cmt3.research.microsoft.com/XAI3ECAI2023](https://cmt3.research.microsoft.com/XAI3ECAI2023)
 
 *Overlength or non-anonymized submissions will be rejected without review.*
 
