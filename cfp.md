@@ -25,6 +25,8 @@ All times Anywhere on Earth (AoE), UTC-12
 
 ## Submission instructions
 
+<text class="highlight">**2023-06-16**: We changed the paper template from ECAI to Springer LNCS.</text> 
+
 Submissions should be **anonymised** and follow the **LNCS template** available as downloadable LaTeX and Word, as well as online Overleaf template, at [https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)
 
 We welcome two types of papers:
