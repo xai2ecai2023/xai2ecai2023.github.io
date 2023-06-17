@@ -25,8 +25,6 @@ All times Anywhere on Earth (AoE), UTC-12
 
 ## Submission instructions
 
-<text class="highlight">**2023-06-16**: We changed the paper template from ECAI to Springer LNCS.</text> 
-
 Submissions should be **anonymised** and follow the **LNCS template** available as downloadable LaTeX and Word, as well as online Overleaf template, at [https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)
 
 We welcome two types of papers:
@@ -34,3 +32,5 @@ We welcome two types of papers:
 * **Proceedings track**: We welcome full research papers of **10-15 pages**. Full papers presented at the XAI^3 workshop will be published by Springer Nature in joint **ECAI workshop proceedings volume**, as part of the [CCIS book series](https://www.springer.com/series/7899). It will be possible to make individual papers Open Access, at the discretion and cost of the authors, by following the Springer procedure described [here](https://www.springer.com/gp/computer-science/lncs/open-access-publishing-in-computer-proceedings).
 
 Submissions can be done at [https://cmt3.research.microsoft.com/XAI3ECAI2023](https://cmt3.research.microsoft.com/XAI3ECAI2023)
+
+<text class="highlight"><b>2023-06-16</b>: We changed the paper template from ECAI to Springer LNCS.</text> 
