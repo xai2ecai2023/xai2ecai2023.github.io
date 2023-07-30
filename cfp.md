@@ -17,7 +17,7 @@ Welcome to the Joint workshops on XAI methods, challenges and applications **(XA
 
 ## Dates
 
-| **Paper submission deadline** | July 18, 2023 |
+| **Paper submission deadline** | <s>July 18, 2023</s> |
 | **Decision notification** | August 15, 2023 |
 | **Camera-ready due** | August 22, 2023 |
 
@@ -35,4 +35,4 @@ The page limit **does not** include references and supplementary material.
 
 Submissions can be done at [https://cmt3.research.microsoft.com/XAI3ECAI2023](https://cmt3.research.microsoft.com/XAI3ECAI2023)
 
-<text class="highlight"><b>2023-06-16</b>: We changed the paper template from ECAI to Springer LNCS.</text> 
+<!-- <text class="highlight"><b>2023-06-16</b>: We changed the paper template from ECAI to Springer LNCS.</text>  -->
