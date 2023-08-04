@@ -60,7 +60,7 @@ Submissions can be done at [https://cmt3.research.microsoft.com/XAI3ECAI2023](ht
 
 # Co-organized and supported by
 
-<img src="./assets/images/logo_university_warsaw.png" alt="Logo University of Warsaw" width="500">
+<img src="./assets/images/logo_mim_uw.jpg" alt="Logo University of Warsaw" width="500">
 
 # Contact
 
