@@ -58,6 +58,10 @@ Submissions can be done at [https://cmt3.research.microsoft.com/XAI3ECAI2023](ht
 |<img src="./assets/images/spashami.jpg" alt="Sepideh Pashami" width="150"/>|<img src="./assets/images/rpribeiro.jpg" alt="Rita P. Ribeiro" width="150"/>|<img src="./assets/images/drymarczyk.jpg" alt="Dawid Rymarczyk" width="150"/>|<img src="./assets/images/jtabor.jpg" alt="Jacek Tabor" width="150"/>|<img src="./assets/images/bveloso.jpg" alt="Bruno Veloso" width="150"/>|<img src="./assets/images/bzielinski.jpg" alt="Bartosz Zieliński" width="150"/>|
 |[Sepideh Pashami](https://wiki.hh.se/caisr/index.php/Sepideh_Pashami)<br/>Halmstad University|[Rita P. Ribeiro](https://scholar.google.com/citations?user=ptDBgpkAAAAJ)<br/>University of Porto|[Dawid Rymarczyk](https://scholar.google.com/citations?user=QLAFuXYAAAAJ)<br/>Jagiellonian University|[Jacek Tabor](https://scholar.google.pl/citations?user=zSKYziUAAAAJ)<br/>Jagiellonian University|[Bruno Veloso](https://brunomveloso.github.io)<br/>University of Porto|[Bartosz Zieliński](https://bartoszzielinski.github.io)<br/>Jagiellonian University|
 
+# Co-organized and supported by
+
+<img src="./assets/images/logo_university_warsaw.png" alt="Logo University of Warsaw" width="500">
+
 # Contact
 
 **Email**: <a href="mailto:xai3ecai2023@googlegroups.com">xai3ecai2023@googlegroups.com</a>
