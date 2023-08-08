@@ -58,9 +58,17 @@ Submissions can be done at [https://cmt3.research.microsoft.com/XAI3ECAI2023](ht
 |<img src="./assets/images/spashami.jpg" alt="Sepideh Pashami" width="150"/>|<img src="./assets/images/rpribeiro.jpg" alt="Rita P. Ribeiro" width="150"/>|<img src="./assets/images/drymarczyk.jpg" alt="Dawid Rymarczyk" width="150"/>|<img src="./assets/images/jtabor.jpg" alt="Jacek Tabor" width="150"/>|<img src="./assets/images/bveloso.jpg" alt="Bruno Veloso" width="150"/>|<img src="./assets/images/bzielinski.jpg" alt="Bartosz Zieliński" width="150"/>|
 |[Sepideh Pashami](https://wiki.hh.se/caisr/index.php/Sepideh_Pashami)<br/>Halmstad University|[Rita P. Ribeiro](https://scholar.google.com/citations?user=ptDBgpkAAAAJ)<br/>University of Porto|[Dawid Rymarczyk](https://scholar.google.com/citations?user=QLAFuXYAAAAJ)<br/>Jagiellonian University|[Jacek Tabor](https://scholar.google.pl/citations?user=zSKYziUAAAAJ)<br/>Jagiellonian University|[Bruno Veloso](https://brunomveloso.github.io)<br/>University of Porto|[Bartosz Zieliński](https://bartoszzielinski.github.io)<br/>Jagiellonian University|
 
-<!-- # Co-organized and supported by
+# Co-organized and supported by
 
-<a href="https://mimuw.edu.pl/en"><img src="./assets/images/logo_mim_uw.jpg" alt="Logo University of Warsaw" width="500"></a> -->
+<a href="https://mimuw.edu.pl/en"><img src="./assets/images/logo_mim_uw.jpg" alt="Logo: University of Warsaw" height="400"></a>
+
+<a href="https://www.hh.se/english.html"><img src="./assets/images/logo_halmstad_university.png" alt="Logo: Halmstad University" height="400"></a>
+
+<a href="https://www.chistera.eu/projects/xpm"><img src="./assets/images/logo_xpm.jpg" alt="Logo: EU CHIST-ERA project XPM" height="400"></a>
+
+<a href="https://en.uj.edu.pl/"><img src="./assets/images/logo_uj.jpg" alt="Logo: Jagiellonian University" height="400"></a>
+
+<a href="https://www.inesctec.pt/en"><img src="./assets/images/logo_inesctec.jpg" alt="Logo: INESC TEC" height="400"></a>
 
 # Contact
 
