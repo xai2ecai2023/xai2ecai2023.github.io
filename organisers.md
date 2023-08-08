@@ -18,7 +18,7 @@ layout: default
 
 # Co-organized and supported by
 
-<a href="https://mimuw.edu.pl/en"><img class="ologo" src="./assets/images/logo_mim_uw.jpg" alt="Logo: University of Warsaw" height="250"></a>
+<a href="https://mimuw.edu.pl/en"><img class="ologo" src="./assets/images/logo_mim_uw.jpg" alt="Logo: University of Warsaw" height="260"></a>
 <a href="https://www.hh.se/english.html"><img class="ologo" src="./assets/images/logo_halmstad_university.png" alt="Logo: Halmstad University" height="250"></a>
 <a href="https://www.chistera.eu/projects/xpm"><img class="ologo" src="./assets/images/logo_xpm.jpg" alt="Logo: EU CHIST-ERA project XPM" height="250"></a>
 <a href="https://en.uj.edu.pl/"><img class="ologo" src="./assets/images/logo_uj.jpg" alt="Logo: Jagiellonian University" height="250"></a>
