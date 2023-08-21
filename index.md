@@ -6,6 +6,12 @@ layout: default
 | **Location** | The workshop will be held **in-person** at the [**ECAI 2023**](https://ecai2023.eu) conference in Kraków, Poland. |
 
 
+# Invited Speakers [[Abstracts](/speakers)]
+
+|<img src="./assets/images/cbielza.jfif" alt="Concha Bielza" width="250"/>|<img src="./assets/images/plarranaga.jfif" alt="Pedro Larrañaga" width="250"/>|<img src="./assets/images/ielnaqa.jpeg" alt="Issam El Naqa" width="250"/>|<img src="./assets/images/cseifert.jfif" alt="Christin Seifert" width="250"/>|
+|[Concha Bielza](https://scholar.google.com/citations?user=zwSj1n8AAAAJ)<br/>Technical University of Madrid|[Pedro Larrañaga](https://scholar.google.es/citations?user=iTlD56SV03AC)<br/>Technical University of Madrid|[Issam El Naqa](https://scholar.google.ca/citations?user=9Vdfc2sAAAAJ)<br/>Moffitt Cancer Center|[Christin Seifert](https://scholar.google.com/citations?user=aK6ZccUAAAAJ)<br/>University of Marburg|
+
+
 # Call for Papers
 
 Welcome to the Joint workshops on XAI methods, challenges and applications **(XAI^3)**, where we aim to discuss opportunities for the new generation of explainable AI (XAI) methods that are reliable, robust, and trustworthy. Explainability of AI models and systems is crucial for humans to trust and use intelligent systems, yet their utility in high-risk applications such as healthcare and industry has been severely limited. Our workshop will have three tracks: medical, industry, and future challenges, where we will explore the challenges and opportunities in creating useful XAI methods for medical applications, integrating explainability in highly automated industrial processes, and evaluating current and future XAI methods. We welcome contributions from researchers, academia, and industries primarily from a technical and application point of view, but also from an ethical and sociological perspective. Join us in discussing the latest developments in XAI and their practical applications at the 26th European Conference on Artificial Intelligence **(ECAI 2023)** in Kraków, Poland.
@@ -21,30 +27,25 @@ Welcome to the Joint workshops on XAI methods, challenges and applications **(XA
 ## Dates
 
 | **Paper submission deadline** | <s>July 18, 2023</s> |
-| **Decision notification** | August 15, 2023 |
-| **Camera-ready due** | August 22, 2023 |
+| **Decision notification** | <s>August 15, 2023</s> |
+| **Camera-ready due** | September 11, 2023 |
 
 All times Anywhere on Earth (AoE), UTC-12
 
 
 ## Submission instructions
 
-Submissions should be **anonymised** and follow the **LNCS template** available as downloadable LaTeX and Word, as well as online Overleaf template, at [https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)
+Submissions should be **anonymised** and follow the **LNCS template** available as downloadable LaTeX and Word, as well as online Overleaf template, at [**https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines**](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)
 
 We welcome two types of papers:
 * **Non-proceedings track**:  We welcome short papers of **4-8 pages**. Submissions accepted to this track will be presented at the XAI^3 workshop but **not** published in Springer proceedings.
-* **Proceedings track**: We welcome full research papers of **10-15 pages**. Full papers presented at the XAI^3 workshop will be published by Springer Nature in joint **ECAI workshop proceedings volume**, as part of the [CCIS book series](https://www.springer.com/series/7899). It will be possible to make individual papers Open Access, at the discretion and cost of the authors, by following the Springer procedure described [here](https://www.springer.com/gp/computer-science/lncs/open-access-publishing-in-computer-proceedings).
+* **Proceedings track**: We welcome full research papers of **10-15 pages**. Full papers presented at the XAI^3 workshop will be published by Springer Nature in joint **ECAI workshop proceedings volume**, as part of the [**CCIS book series**](https://www.springer.com/series/7899). It will be possible to make individual papers Open Access, at the discretion and cost of the authors, by following the Springer procedure described [**here**](https://www.springer.com/gp/computer-science/lncs/open-access-publishing-in-computer-proceedings).
 
 The page limit **does not** include references and supplementary material.
 
 Submissions can be done at [https://cmt3.research.microsoft.com/XAI3ECAI2023](https://cmt3.research.microsoft.com/XAI3ECAI2023)
 
 <!-- <text class="highlight"><b>2023-06-16</b>: We changed the paper template from ECAI to Springer LNCS.</text>  -->
-
-# Invited Speakers
-
-|<img src="./assets/images/cbielza.jfif" alt="Concha Bielza" width="250"/>|<img src="./assets/images/plarranaga.jfif" alt="Pedro Larrañaga" width="250"/>|<img src="./assets/images/ielnaqa.jpeg" alt="Issam El Naqa" width="250"/>|<img src="./assets/images/cseifert.jfif" alt="Christin Seifert" width="250"/>|
-|[Concha Bielza](https://scholar.google.com/citations?user=zwSj1n8AAAAJ)<br/>Technical University of Madrid|[Pedro Larrañaga](https://scholar.google.es/citations?user=iTlD56SV03AC)<br/>Technical University of Madrid|[Issam El Naqa](https://scholar.google.ca/citations?user=9Vdfc2sAAAAJ)<br/>Moffitt Cancer Center|[Christin Seifert](https://scholar.google.com/citations?user=aK6ZccUAAAAJ)<br/>University of Marburg|
 
 
 # Organisers
@@ -60,12 +61,12 @@ Submissions can be done at [https://cmt3.research.microsoft.com/XAI3ECAI2023](ht
 
 # Co-organized and supported by
 
-<a href="https://mimuw.edu.pl/en"><img class="ologo" src="./assets/images/logo_mim_uw.jpg" alt="Logo: University of Warsaw" height="260"></a>
-<a href="https://www.hh.se/english.html"><img class="ologo" src="./assets/images/logo_halmstad_university.png" alt="Logo: Halmstad University" height="250"></a>
-<a href="https://www.chistera.eu/projects/xpm"><img class="ologo" src="./assets/images/logo_xpm.jpg" alt="Logo: EU CHIST-ERA project XPM" height="250"></a>
-<a href="https://mi2.ai"><img class="ologoplus" src="./assets/images/logo_mi2.png" alt="Logo: MI2.AI" height="250"></a>
-<a href="https://en.uj.edu.pl/"><img class="ologo" src="./assets/images/logo_uj.jpg" alt="Logo: Jagiellonian University" height="250"></a>
-<a href="https://www.inesctec.pt/en"><img class="ologo" src="./assets/images/logo_inesctec.png" alt="Logo: INESC TEC" height="200"></a>
+<a href="https://mimuw.edu.pl/en"><img class="ologo" src="./assets/images/logo_mim_uw.jpg" alt="Logo: University of Warsaw" height="208"></a>
+<a href="https://www.hh.se/english.html"><img class="ologo" src="./assets/images/logo_halmstad_university.png" alt="Logo: Halmstad University" height="200"></a>
+<a href="https://www.chistera.eu/projects/xpm"><img class="ologo" src="./assets/images/logo_xpm.jpg" alt="Logo: EU CHIST-ERA project XPM" height="200"></a>
+<a href="https://mi2.ai"><img class="ologoplus" src="./assets/images/logo_mi2.png" alt="Logo: MI2.AI" height="200"></a>
+<a href="https://en.uj.edu.pl/"><img class="ologo" src="./assets/images/logo_uj.jpg" alt="Logo: Jagiellonian University" height="200"></a>
+<a href="https://www.inesctec.pt/en"><img class="ologo" src="./assets/images/logo_inesctec.png" alt="Logo: INESC TEC" height="160"></a>
 
 # Contact
 
