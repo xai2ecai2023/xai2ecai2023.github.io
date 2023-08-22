@@ -33,7 +33,7 @@ Submissions should be **anonymised** and follow the **LNCS template** available 
 
 We welcome two types of papers:
 * **Non-proceedings track**:  We welcome short papers of **4-8 pages**. Submissions accepted to this track will be presented at the XAI^3 workshop but **not** published in Springer proceedings.
-* **Proceedings track**: We welcome full research papers of **10-15 pages**. Full papers presented at the XAI^3 workshop will be published by Springer Nature in joint **ECAI workshop proceedings volume**, as part of the [**CCIS book series**](https://www.springer.com/series/7899). It will be possible to make individual papers Open Access, at the discretion and cost of the authors, by following the Springer procedure described [**here**](https://www.springer.com/gp/computer-science/lncs/open-access-publishing-in-computer-proceedings).
+* **Proceedings track**: We welcome full research papers of **10-15 pages**. Full papers presented at the XAI^3 workshop will be published by Springer Nature in joint **ECAI workshop proceedings volume**, as part of the [**CCIS book series**](https://www.springer.com/series/7899). It will be possible to make individual papers **Open Access**, at the discretion and cost of the authors, by following the Springer procedure described [**here**](https://www.springer.com/gp/computer-science/lncs/open-access-publishing-in-computer-proceedings).
 
 The page limit **does not** include references and supplementary material.
 

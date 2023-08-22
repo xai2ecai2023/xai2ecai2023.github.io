@@ -24,3 +24,4 @@ layout: default
 <a href="https://mi2.ai"><img class="ologoplus" src="./assets/images/logo_mi2.png" alt="Logo: MI2.AI" height="200"></a>
 <a href="https://en.uj.edu.pl/"><img class="ologo" src="./assets/images/logo_uj.jpg" alt="Logo: Jagiellonian University" height="200"></a>
 <a href="https://www.inesctec.pt/en"><img class="ologo" src="./assets/images/logo_inesctec.png" alt="Logo: INESC TEC" height="160"></a>
+<img class="ologo" src="./assets/images/springer-1.png" alt="Logo: Springer" height="145"> <img class="ologo" src="./assets/images/springer-2.png" alt="Logo: Springer" height="160">
