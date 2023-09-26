@@ -6,10 +6,9 @@ timezone: Europe/Warsaw
 navigation:
   Home: "/"
   ⭐ Invited Speakers ⭐: "/speakers"
-  # Accepted Papers: "/papers"
-  Call for Papers: "/cfp"
-  Organisers: "/organisers"
   Schedule: "/schedule"
+  Organisers: "/organisers"
+  Call for Papers: "/cfp"
   Main Conference: https://ecai2023.eu
 
 markdown: kramdown

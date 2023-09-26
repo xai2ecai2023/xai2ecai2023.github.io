@@ -22,7 +22,7 @@ Welcome to the Joint workshops on XAI methods, challenges and applications **(XA
 
 | **Paper submission deadline** | <s>July 18, 2023</s> |
 | **Decision notification** | <s>August 15, 2023</s> |
-| **Camera-ready due** | September 11, 2023 |
+| **Camera-ready due** | <s>September 11, 2023</s> |
 
 All times Anywhere on Earth (AoE), UTC-12
 
