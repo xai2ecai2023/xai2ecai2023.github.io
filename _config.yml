@@ -7,8 +7,8 @@ navigation:
   Home: "/"
   ⭐ Invited Speakers ⭐: "/speakers"
   🆕 Schedule 🆕: "/schedule"
-  Organisers: "/organisers"
   Call for Papers: "/cfp"
+  Organisers: "/organisers"
   Main Conference: https://ecai2023.eu
 
 markdown: kramdown
