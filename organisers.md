@@ -22,8 +22,9 @@ layout: default
 <a href="https://www.hh.se/english.html"><img class="ologo" src="./assets/images/logo_halmstad_university.png" alt="Logo: Halmstad University" height="200"></a>
 <a href="https://www.chistera.eu/projects/xpm"><img class="ologo" src="./assets/images/logo_xpm.jpg" alt="Logo: EU CHIST-ERA project XPM" height="200"></a>
 <a href="https://bioemtech.com/"><img class="ologo" src="./assets/images/logo_bioemtech.png" alt="Logo: BIOEMTECH" height="70"></a>
-<a href="https://mi2.ai"><img class="ologoplus" src="./assets/images/logo_mi2.png" alt="Logo: MI2.AI" height="200"></a>
-<a href="https://en.uj.edu.pl/"><img class="ologo" src="./assets/images/logo_uj.jpg" alt="Logo: Jagiellonian University" height="190"></a>
-<a href="https://www.inesctec.pt/en"><img class="ologo" src="./assets/images/logo_inesctec.png" alt="Logo: INESC TEC" height="160"></a>
+<a href="https://inform-project.eu/"><img class="ologo" src="./assets/images/logo_inform.png" alt="Logo: inform" height="160"></a>
+<a href="https://mi2.ai"><img class="ologoplus" src="./assets/images/logo_mi2.png" alt="Logo: MI2.AI" height="180"></a>
+<a href="https://en.uj.edu.pl/"><img class="ologo" src="./assets/images/logo_uj.jpg" alt="Logo: Jagiellonian University" height="170"></a>
+<a href="https://www.inesctec.pt/en"><img class="ologo" src="./assets/images/logo_inesctec.png" alt="Logo: INESC TEC" height="155"></a>
 <a href="https://latim.univ-brest.fr/"><img class="ologo" src="./assets/images/logo_latim.png" alt="Logo: LATIM" height="160"></a>
 <img class="ologo" src="./assets/images/springer-1.png" alt="Logo: Springer" height="145"> <img class="ologo" src="./assets/images/springer-2.png" alt="Logo: Springer CCIS" height="160">
