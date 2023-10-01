@@ -4,6 +4,8 @@ layout: default
 
 | **Date** | October 1, 2023 |
 | **Location** | The workshop will be held **in-person** at the [**ECAI 2023**](https://ecai2023.eu) conference in Kraków, Poland. |
+| **Room** | A-1-13 in the [Faculty of Physics, Astronomy and Applied Computer Science](https://maps.app.goo.gl/Aq55uToHLzjCxioi6) of the Jagiellonian University |
+
 
 # Invited Speakers
 
