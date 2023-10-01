@@ -13,6 +13,33 @@ layout: default
 |[Concha Bielza](https://scholar.google.com/citations?user=zwSj1n8AAAAJ)<br/>Technical University of Madrid|[Pedro Larrañaga](https://scholar.google.es/citations?user=iTlD56SV03AC)<br/>Technical University of Madrid|[Issam El Naqa](https://scholar.google.ca/citations?user=9Vdfc2sAAAAJ)<br/>Moffitt Cancer Center|[Christin Seifert](https://scholar.google.com/citations?user=aK6ZccUAAAAJ)<br/>University of Marburg|
 
 
+# Schedule
+
+This is the workshop's schedule in Central European Time (CET). 
+
+|{::nomarkdown} <div style="width:140px"> <strong>Time (CET)</strong> </div> {:/}| **Event** |
+| <span style="font-family: monospace;">09:00 - 09:10</span> | Opening remarks |
+| | [**Session 1**] |
+| <span style="font-family: monospace;">09:10 - 10:00</span> | **Invited talk** by [Christin Seifert](https://scholar.google.com/citations?user=aK6ZccUAAAAJ): Can we trust XAI? Current status and challenges of evaluating XAI methods. |
+| <span style="font-family: monospace;">10:00 - 10:15</span> | **Paper**: SHAP values from a Practical Perspective of a Social Scientist. <br/> Łukasz Borowiecki. |
+| <span style="font-family: monospace;">10:15 - 10:30</span> | **Paper**: Evaluation of Local Model-agnostic Explanations: Taxonomy and Limitations. <br/> Amir Hossein Akhavan Rahnama. |
+| <span style="font-family: monospace;">10:30 - 11:00</span> |**Coffee break**|
+| | [**Session 2**] |
+| <span style="font-family: monospace;">11:00 - 11:50</span> | **Invited Talk** by [Concha Bielza](https://scholar.google.com/citations?user=zwSj1n8AAAAJ) & [Pedro Larrañaga](https://scholar.google.es/citations?user=iTlD56SV03AC): Explanation Capabilities of Bayesian Networks in Dynamic Industrial Domains. |
+| <span style="font-family: monospace;">11:50 - 12:05</span> | **Paper**: Explainable Anomaly Detection in Industrial Streams. <br/> Jakub Jakubowski, Przemysław Stanisz, Szymon Bobek, Grzegorz Nalepa. |
+| <span style="font-family: monospace;">12:05 - 12:20</span> | **Paper**: Clash of the Explainers: Argumentation for Context-Appropriate Explanations. <br/> Leila Methnani, Andreas Theodorou, Virginia Dignum. |
+| <span style="font-family: monospace;">12:30 - 13:30</span> |**Lunch break**|
+| | [**Session 3**] |
+| <span style="font-family: monospace;">13:30 - 14:20</span> | **Invited Talk** by [Issam El Naqa](https://scholar.google.ca/citations?user=9Vdfc2sAAAAJ): Towards Trustworthy AI for Clinical Oncology. |
+| <span style="font-family: monospace;">14:20 - 14:35</span> | **Paper**: From Data to Insights: Fusing Explainable AI and Epidemiological Thinking to Enhance Primary Care Practices. <br/> Awais Ashfaq, Slawomir Nowaczyk. |
+| <span style="font-family: monospace;">14:35 - 14:50</span> | **Paper**: EcoShap: Save Computations by Only Calculating Shapley Values for Relevant Features. <br/> Parisa Jamshidi, Slawomir Nowaczyk, Mahmoud Rahat. |
+| <span style="font-family: monospace;">15:00 - 15:30</span> |**Coffee break**|
+| | [**Session 4**] |
+| <span style="font-family: monospace;">15:30 - 15:45</span> | **Paper**: Towards Explainable Deep Domain Adaptation. <br/> Szymon Bobek, Zahra Taghiyarrenani, Sepideh Pashami, Slawomir Nowaczyk, Grzegorz Nalepa. |
+| <span style="font-family: monospace;">15:45 - 16:00</span> | **Paper**: Interpretability benchmark for spatial alignment of prototypical parts. <br/> Mikołaj Sacha, Bartosz Jura, Dawid Rymarczyk, Łukasz Struski, Jacek Tabor, Bartosz Zieliński. |
+| <span style="font-family: monospace;">16:00 - 16:15</span> | **Paper**: Evaluation of Human-Understandability of Global Model Explanations using Decision Tree. <br/> Adarsa Sivaprasad, Ehud Reiter. |
+
+
 # Call for Papers
 
 Welcome to the Joint workshops on XAI methods, challenges and applications **(XAI^3)**, where we aim to discuss opportunities for the new generation of explainable AI (XAI) methods that are reliable, robust, and trustworthy. Explainability of AI models and systems is crucial for humans to trust and use intelligent systems, yet their utility in high-risk applications such as healthcare and industry has been severely limited. Our workshop will have three tracks: medical, industry, and future challenges, where we will explore the challenges and opportunities in creating useful XAI methods for medical applications, integrating explainability in highly automated industrial processes, and evaluating current and future XAI methods. We welcome contributions from researchers, academia, and industries primarily from a technical and application point of view, but also from an ethical and sociological perspective. Join us in discussing the latest developments in XAI and their practical applications at the 26th European Conference on Artificial Intelligence **(ECAI 2023)** in Kraków, Poland.
