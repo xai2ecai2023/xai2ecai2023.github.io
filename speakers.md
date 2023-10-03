@@ -18,9 +18,9 @@ layout: default
 
 
 |<img src="./assets/images/ielnaqa.jpeg" alt="Issam El Naqa" width="250"/>|
-|[Issam El Naqa](https://scholar.google.ca/citations?user=9Vdfc2sAAAAJ)<br/>Moffitt Cancer Center| [[slides](/assets/documents/slides_ielnaqa.pdf)] |
+|[Issam El Naqa](https://scholar.google.ca/citations?user=9Vdfc2sAAAAJ)<br/>Moffitt Cancer Center| 
 
-**Towards Trustworthy AI for Clinical Oncology**
+**Towards Trustworthy AI for Clinical Oncology** [[**slides**](/assets/documents/slides_ielnaqa.pdf)]
 
 > Artificial intelligence (AI) and Machine learning (ML) algorithms are currently transforming biomedical research, especially in the context of cancer research and clinical care. Despite the anticipated potentials, their application in oncology and healthcare has been limited in scope with less than 5% of major healthcare providers implementing any form of AI/ML solutions. This is partly attributed to concerning issues that AI/ML driven technologies instead of reducing healthcare disparities would exacerbate existing racial and gender equity due to inherent bias and lack of prediction transparency. In this work, we will present different approaches for detecting and mitigating such bias in AI/ML algorithms. We further show examples of implementing these approaches in oncology applications from our work and others and discuss their implications for the future of AI/ML. 
 

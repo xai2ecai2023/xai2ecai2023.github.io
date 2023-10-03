@@ -24,7 +24,7 @@ This is the workshop's schedule in Central European Time (CET).
 | <span style="font-family: monospace;">12:05 - 12:20</span> | **Paper**: Clash of the Explainers: Argumentation for Context-Appropriate Explanations. <br/> Leila Methnani, Andreas Theodorou, Virginia Dignum. |
 | <span style="font-family: monospace;">12:30 - 13:30</span> |**Lunch break**|
 | | [**Session 3**] |
-| <span style="font-family: monospace;">13:30 - 14:20</span> | **Invited Talk** by [Issam El Naqa](https://scholar.google.ca/citations?user=9Vdfc2sAAAAJ): Towards Trustworthy AI for Clinical Oncology. |
+| <span style="font-family: monospace;">13:30 - 14:20</span> | **Invited Talk** by [Issam El Naqa](https://scholar.google.ca/citations?user=9Vdfc2sAAAAJ): Towards Trustworthy AI for Clinical Oncology. [[**slides**](/assets/documents/slides_ielnaqa.pdf)] |
 | <span style="font-family: monospace;">14:20 - 14:35</span> | **Paper**: From Data to Insights: Fusing Explainable AI and Epidemiological Thinking to Enhance Primary Care Practices. <br/> Awais Ashfaq, Slawomir Nowaczyk. |
 | <span style="font-family: monospace;">14:35 - 14:50</span> | **Paper**: EcoShap: Save Computations by Only Calculating Shapley Values for Relevant Features. <br/> Parisa Jamshidi, Slawomir Nowaczyk, Mahmoud Rahat. |
 | <span style="font-family: monospace;">15:00 - 15:30</span> |**Coffee break**|

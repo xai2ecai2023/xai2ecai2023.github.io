@@ -11,7 +11,6 @@ layout: default
 
 |<img src="./assets/images/cbielza.jfif" alt="Concha Bielza" width="250"/>|<img src="./assets/images/plarranaga.jfif" alt="Pedro Larrañaga" width="250"/>|<img src="./assets/images/ielnaqa.jpeg" alt="Issam El Naqa" width="250"/>|<img src="./assets/images/cseifert.jfif" alt="Christin Seifert" width="250"/>|
 |[Concha Bielza](https://scholar.google.com/citations?user=zwSj1n8AAAAJ)<br/>Technical University of Madrid|[Pedro Larrañaga](https://scholar.google.es/citations?user=iTlD56SV03AC)<br/>Technical University of Madrid|[Issam El Naqa](https://scholar.google.ca/citations?user=9Vdfc2sAAAAJ)<br/>Moffitt Cancer Center|[Christin Seifert](https://scholar.google.com/citations?user=aK6ZccUAAAAJ)<br/>University of Marburg|
-| | [[slides](/assets/documents/slides_ielnaqa.pdf)] | |
 
 
 # Schedule
@@ -31,7 +30,7 @@ This is the workshop's schedule in Central European Time (CET).
 | <span style="font-family: monospace;">12:05 - 12:20</span> | **Paper**: Clash of the Explainers: Argumentation for Context-Appropriate Explanations. <br/> Leila Methnani, Andreas Theodorou, Virginia Dignum. |
 | <span style="font-family: monospace;">12:30 - 13:30</span> |**Lunch break**|
 | | [**Session 3**] |
-| <span style="font-family: monospace;">13:30 - 14:20</span> | **Invited Talk** by [Issam El Naqa](https://scholar.google.ca/citations?user=9Vdfc2sAAAAJ): Towards Trustworthy AI for Clinical Oncology. |
+| <span style="font-family: monospace;">13:30 - 14:20</span> | **Invited Talk** by [Issam El Naqa](https://scholar.google.ca/citations?user=9Vdfc2sAAAAJ): Towards Trustworthy AI for Clinical Oncology. [[**slides**](/assets/documents/slides_ielnaqa.pdf)] |
 | <span style="font-family: monospace;">14:20 - 14:35</span> | **Paper**: From Data to Insights: Fusing Explainable AI and Epidemiological Thinking to Enhance Primary Care Practices. <br/> Awais Ashfaq, Slawomir Nowaczyk. |
 | <span style="font-family: monospace;">14:35 - 14:50</span> | **Paper**: EcoShap: Save Computations by Only Calculating Shapley Values for Relevant Features. <br/> Parisa Jamshidi, Slawomir Nowaczyk, Mahmoud Rahat. |
 | <span style="font-family: monospace;">15:00 - 15:30</span> |**Coffee break**|
