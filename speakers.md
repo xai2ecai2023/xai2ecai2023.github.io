@@ -18,7 +18,7 @@ layout: default
 
 
 |<img src="./assets/images/ielnaqa.jpeg" alt="Issam El Naqa" width="250"/>|
-|[Issam El Naqa](https://scholar.google.ca/citations?user=9Vdfc2sAAAAJ)<br/>Moffitt Cancer Center|
+|[Issam El Naqa](https://scholar.google.ca/citations?user=9Vdfc2sAAAAJ)<br/>Moffitt Cancer Center| [[slides](/assets/documents/slides_ielnaqa.pdf)] |
 
 **Towards Trustworthy AI for Clinical Oncology**
 
