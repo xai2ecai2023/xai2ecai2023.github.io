@@ -14,12 +14,12 @@ This is the workshop's schedule in Central European Time (CET).
 |{::nomarkdown} <div style="width:140px"> <strong>Time (CET)</strong> </div> {:/}| **Event** |
 | <span style="font-family: monospace;">09:00 - 09:10</span> | Opening remarks |
 | | [**Session 1**] |
-| <span style="font-family: monospace;">09:10 - 10:00</span> | **Invited talk** by [Christin Seifert](https://scholar.google.com/citations?user=aK6ZccUAAAAJ): Can we trust XAI? Current status and challenges of evaluating XAI methods. |
+| <span style="font-family: monospace;">09:10 - 10:00</span> | **Invited talk** by [Christin Seifert](https://scholar.google.com/citations?user=aK6ZccUAAAAJ): Can we trust XAI? Current status and challenges of evaluating XAI methods. [[**slides**](/assets/documents/slides_cseifert.pdf)] |
 | <span style="font-family: monospace;">10:00 - 10:15</span> | **Paper**: SHAP values from a Practical Perspective of a Social Scientist. <br/> Łukasz Borowiecki. |
 | <span style="font-family: monospace;">10:15 - 10:30</span> | **Paper**: Evaluation of Local Model-agnostic Explanations: Taxonomy and Limitations. <br/> Amir Hossein Akhavan Rahnama. |
 | <span style="font-family: monospace;">10:30 - 11:00</span> |**Coffee break**|
 | | [**Session 2**] |
-| <span style="font-family: monospace;">11:00 - 11:50</span> | **Invited Talk** by [Concha Bielza](https://scholar.google.com/citations?user=zwSj1n8AAAAJ) & [Pedro Larrañaga](https://scholar.google.es/citations?user=iTlD56SV03AC): Explanation Capabilities of Bayesian Networks in Dynamic Industrial Domains. |
+| <span style="font-family: monospace;">11:00 - 11:50</span> | **Invited Talk** by [Concha Bielza](https://scholar.google.com/citations?user=zwSj1n8AAAAJ) & [Pedro Larrañaga](https://scholar.google.es/citations?user=iTlD56SV03AC): Explanation Capabilities of Bayesian Networks in Dynamic Industrial Domains. [[**slides**](/assets/documents/slides_cbielza_plarranaga.pdf)] |
 | <span style="font-family: monospace;">11:50 - 12:05</span> | **Paper**: Explainable Anomaly Detection in Industrial Streams. <br/> Jakub Jakubowski, Przemysław Stanisz, Szymon Bobek, Grzegorz Nalepa. |
 | <span style="font-family: monospace;">12:05 - 12:20</span> | **Paper**: Clash of the Explainers: Argumentation for Context-Appropriate Explanations. <br/> Leila Methnani, Andreas Theodorou, Virginia Dignum. |
 | <span style="font-family: monospace;">12:30 - 13:30</span> |**Lunch break**|
